@@ -189,16 +189,16 @@ module.exports = {
     //paletteCategories: ['subflows', 'input', 'output', 'function', 'social', 'mobile', 'storage', 'analysis', 'advanced'],
     editorTheme: {
         page: {
-            title: "balena Node-RED",
+            title: "Texaco Node-RED",
             favicon: "/usr/src/app/assets/favicon.ico"
         },
         header: {
-            title: "balena Node-RED",
-            image: "/usr/src/app/assets/logo.png", // or null to remove image
-            url: "https://balena.io"
+            title: "Texaco Node-RED",
+            image: "/usr/src/app/assets/texaco.svg", // or null to remove image
+            url: "https://marshal.ml"
         },
         login: {
-            image: "/usr/src/app/assets/logo.png" // a 256x256 image
+            image: "/usr/src/app/assets/texaco.svg" // a 256x256 image
         }
     },
     // Configure the logging output
